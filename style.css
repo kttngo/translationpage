@@ -1,0 +1,120 @@
+html {
+    font-size: 10px;
+    font-family: Georgia, serif;
+  }
+  
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  .title {
+  text-align: left;
+  }
+
+  .bibliography {
+    font-size: 40px;
+  }
+  .introduction {
+    text-indent: 40px;
+    
+  }
+
+  h2{
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  p, li {
+    font-size: 10.5px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  
+  html {
+    background-color: #df6060;
+  }
+  
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+    
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
+  .image {
+    padding-top: 30px
+  }
+
+  .Yosoychicano {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 50px;
+  }
+  
+  .Yosoychicano {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+
+.intro {
+  text-align: center;
+}
+.chicano {
+  text-align: center;
+}
+
+.afraid {
+  text-align: center;
+}
+
+.picket {
+  text-align: center;
+}
+
+
+.centered-text2{
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+.centered-text3 {
+  padding-bottom: 60px;
+  padding-right: 50px;
+}
+.centered-text4 {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.centered-text5 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.centered-text6 {
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+}
+
+.centered-text7 {
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 40px;
+}
